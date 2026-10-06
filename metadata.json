@@ -1,0 +1,6 @@
+{
+  "name": "Titans Saigon FC - Website Đội Bóng & Admin",
+  "description": "Website chính thức của câu lạc bộ bóng đá Titans Saigon FC với lịch thi đấu, kết quả, đội hình chiến thuật từng trận, hồ sơ cầu thủ và bảng điều khiển Admin tích hợp Firebase Storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
